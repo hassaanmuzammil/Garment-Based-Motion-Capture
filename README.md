@@ -14,4 +14,4 @@ Part 2 - Find same 3x3 patterns across aligned images (Simple images)
  
 Part 3 - Find same 3x3 patterns across non-aligned images (Complex images)
 
-Part 4 - Identify the pattern region in a general image
+Part 4 - Identify and segment the pattern region in a general image
