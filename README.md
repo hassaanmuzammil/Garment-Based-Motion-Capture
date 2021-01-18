@@ -10,10 +10,5 @@ Massimo Lunardelli1 · Alberto Fornaser1 · Mauro Da Lio1 · Mariolino De Cecco1
 
 Part 1 - Generate all possible 3x3 rotation distinct color coded patterns from 4 colors
 
-Part 2a - Find same 3x3 patterns across RGB images (Simple aligned circles)
+Part 2 - Find same 3x3 patterns across RGB images
 
-Part 2b - Find same 3x3 patterns across RGB images
-
-Part 3 - Find same 3x3 patterns across grayscale images
-
-Part 4 - Identify and segment the pattern region in a general image
