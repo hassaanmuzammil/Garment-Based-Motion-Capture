@@ -12,4 +12,4 @@ Part 1 - Generate all possible 3x3 rotation distinct color coded patterns from 4
 
 Part 2 - Find same 3x3 patterns across RGB images
 
-Part 3 - Find same 3x3 patterns across grayscale images
+Part 4 - Find same 3x3 patterns across grayscale images
