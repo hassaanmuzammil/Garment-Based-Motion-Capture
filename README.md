@@ -15,3 +15,5 @@ Part 2 - Find same 3x3 patterns across RGB images
 Part 4 - Find same 3x3 patterns across grayscale images
 
 Part 5 - Panorama Construction
+
+[GBMC.pdf](https://github.com/hassaanmuzammil/Garment-Based-Motion-Capture/files/7749411/GBMC.pdf)
